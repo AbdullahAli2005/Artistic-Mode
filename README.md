@@ -32,12 +32,6 @@
 
 ---
 
-## 📸 Screenshots
-
-*Coming soon...*
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -57,9 +51,9 @@ flutter run
 
 ---
 
-## 📁 Assets
+📁 Assets & Fonts
 
-This app uses custom fonts and background images located in the `assets/` directory. Make sure the following is added in `pubspec.yaml`:
+All fonts used in this app are uploaded in the assets/fonts/ folder. Images and textures are stored in the assets/images/ directory. Make sure the following configuration exists in your pubspec.yaml:
 
 ```yaml
 flutter:
@@ -97,10 +91,9 @@ See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📬 Contact
+## 📬 Author
 
 Created with ❤️ by **Abdullah**\
-[Instagram](https://instagram.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourusername)
 
 ---
 
